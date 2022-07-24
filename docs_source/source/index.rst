@@ -10,11 +10,8 @@ Welcome to Precious Plastic Manual's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   introduction
+   plastic_world
+   plastic_prep
+   create
+   extra
