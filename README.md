@@ -12,7 +12,9 @@ Watch our video on how to contribute to open source for a complete overview -> [
 ### Building the sphinx experiment
 After cloning the repository if you wish to edit or make improvements to it, you need to edit the relevant files in the `docs_source` folder and when you want to build it, you run the following command from the root folder of the repository. The output will then be able to be opened locally from the `docs` folder.
 
-`sphinx-build docs_source/source docs`
+```
+sphinx-build docs_source/source docs
+```
 
 ## License
 Unless otherwise specified, everything in this repository is covered by the following licence & disclaimer:
